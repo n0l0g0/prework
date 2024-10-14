@@ -23,3 +23,6 @@ How to fix
     ```js
     python3 -m pip install inflection
     ```
+
+    Video 
+    [Video](https://drive.google.com/file/d/1EKcqOlukhfaHTAD3Tp6BDFrzGeTT_Yta/view?usp=sharing)
