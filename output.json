@@ -1,0 +1,14 @@
+[
+    {
+        "text": "foo bar",
+        "caseType": "snakeCase"
+    },
+    {
+        "text": "foo-bar",
+        "caseType": "kebabCase"
+    },
+    {
+        "text": "foo_bar",
+        "caseType": "snakeCase"
+    }
+]

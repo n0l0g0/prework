@@ -1,0 +1,16 @@
+{
+    "defaultCaseType": "snakeCase",
+    "defaultSensitive": "false",
+    "inputs": [
+        {
+            "text": "Foo Bar"
+        },
+        {
+            "text": "fooBar",
+            "caseType": "kebabCase"
+        },
+        {
+            "text": "fooBar"
+        }
+    ]
+}
